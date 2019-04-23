@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="BodyScanDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BodyScanUpperEngine.cpp" />
+    <ClCompile Include="GroupsIndexes.cpp" />
+    <ClCompile Include="KeyPoints2DEstimator.cpp" />
+    <ClCompile Include="KeyPointsEstimator.cpp" />
+    <ClCompile Include="Measures.cpp" />
+    <ClCompile Include="MeasureThreads.cpp" />
+    <ClCompile Include="MyList.cpp" />
+    <ClCompile Include="PlaneMaths.cpp" />
+    <ClCompile Include="PointsDistance.cpp" />
+    <ClCompile Include="Utils.cpp" />
+    <ClCompile Include="AAM_Basic.cpp" />
+    <ClCompile Include="AAM_CAM.cpp" />
+    <ClCompile Include="AAM_IC.cpp" />
+    <ClCompile Include="AAM_MovieAVI.cpp" />
+    <ClCompile Include="AAM_PAW.cpp" />
+    <ClCompile Include="AAM_PDM.cpp" />
+    <ClCompile Include="AAM_Shape.cpp" />
+    <ClCompile Include="AAM_TDM.cpp" />
+    <ClCompile Include="AAM_Util.cpp" />
+    <ClCompile Include="VJfacedetect.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B007B540-7F33-4883-8640-B3D07929A481}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BodyScanUpperEngine.h" />
+    <ClInclude Include="GroupsIndexes.h" />
+    <ClInclude Include="KeyPoints2DEstimator.h" />
+    <ClInclude Include="KeyPointsEstimator.h" />
+    <ClInclude Include="Measures.h" />
+    <ClInclude Include="MeasureThreads.h" />
+    <ClInclude Include="MyList.h" />
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="Plane.h" />
+    <ClInclude Include="PlaneMaths.h" />
+    <ClInclude Include="PointsDistance.h" />
+    <ClInclude Include="Utils.h" />
+    <ClInclude Include="Vector.h" />
+    <ClInclude Include="AAM_Basic.h" />
+    <ClInclude Include="AAM_CAM.h" />
+    <ClInclude Include="AAM_IC.h" />
+    <ClInclude Include="AAM_MovieAVI.h" />
+    <ClInclude Include="AAM_PAW.h" />
+    <ClInclude Include="AAM_PDM.h" />
+    <ClInclude Include="AAM_Shape.h" />
+    <ClInclude Include="AAM_TDM.h" />
+    <ClInclude Include="AAM_Util.h" />
+    <ClInclude Include="asmfitting.h" />
+    <ClInclude Include="asmlibrary.h" />
+    <ClInclude Include="VJfacedetect.h" />
+  </ItemGroup>
+</Project>
