@@ -7,4 +7,4 @@ It´s is a nice example project of how OpenCv and PCL can work together.
 
 Libraries:
 - PCL.
--OpenCV.
+- OpenCV.
