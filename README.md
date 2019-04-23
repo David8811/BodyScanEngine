@@ -1,5 +1,5 @@
 # BodyScanEngine
-Using computer vision and machine learning alogrithms, takes automated measures from a 3D human model.
+Using computer vision and machine learning alogrithms,it takes automated measures from a 3D human model.
 It´s is a nice example project of how OpenCv and PCL can work together.
 
  Tools:
